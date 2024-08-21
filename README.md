@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning react js and mongodb 🌱<br>I'm trying to be a better developer 👨‍💻<br>I'm a undergrad student👨
+I'm currently learning MLOPS 🌱<br>I'm trying to be a better developer 👨‍💻<br>I'm a undergrad student👨
 
 
 ## 🌐 Socials:
